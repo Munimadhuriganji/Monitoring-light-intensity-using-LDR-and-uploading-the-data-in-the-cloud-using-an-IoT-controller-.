@@ -1,6 +1,6 @@
 ## NAME : GANJI MUNI MADHURI
 ## REG NO : 212223230060
-# EX - 04 Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-.
+# EX 04 Monitoring light intensity using LDR and uploading the data in the cloud using an IoT controller
 
 # AIM:
 To monitor and upload the light intensity value in the Things mate using Arduino controller.
